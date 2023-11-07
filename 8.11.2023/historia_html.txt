@@ -1,0 +1,19 @@
+C++ (1983): Język programowania stworzony przez Bjarne Stroustrupa jako rozszerzenie języka C.
+
+Objective-C (1984): Język programowania często wykorzystywany do tworzenia aplikacji na platformy Apple, takie jak iOS i macOS.
+
+Perl (1987): Język skryptowy, używany do przetwarzania tekstu i automatyzacji zadań.
+
+Python (1989): Wysokopoziomowy język programowania o czytelnym składni.
+
+Java (1995): Wieloplatformowy język programowania stworzony przez firmę Sun Microsystems.
+
+JavaScript (1995): Skryptowy język programowania wykorzystywany do tworzenia interaktywnych stron internetowych.
+
+Ruby (1995): Język programowania, znany z prostoty i elastyczności.
+
+PHP (1995): Skryptowy język programowania często używany do tworzenia stron internetowych.
+
+C# (2000): Język programowania rozwijany przez Microsoft, często stosowany do tworzenia aplikacji na platformę Windows.
+
+Swift (2014): Stworzony przez Apple, jest językiem programowania używanym głównie do tworzenia aplikacji na iOS i macOS.
